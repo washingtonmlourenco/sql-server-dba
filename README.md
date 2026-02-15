@@ -21,14 +21,15 @@ Scripts profissionais para administração e tuning de performance em Microsoft 
 
 ## 🛠️ Tecnologias & Foco
 
-<p align="center">
+<div align="center">
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Performance-red?style=for-the-badge&logo=microsoftsqlserver)
-![T-SQL](https://img.shields.io/badge/T--SQL-Optimization-blue?style=for-the-badge)
-![DBA](https://img.shields.io/badge/DBA-Troubleshooting-green?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure)
+<img src="https://img.shields.io/badge/SQL%20Server-Performance-red?style=for-the-badge&logo=microsoftsqlserver" />
+&nbsp;
+<img src="https://img.shields.io/badge/T--SQL-Optimization-blue?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/DBA-Troubleshooting-green?style=for-the-badge" />
 
-</p>
+</div>
 
 ---
 
