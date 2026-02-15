@@ -9,10 +9,10 @@ Scripts profissionais para administração e tuning de performance em Microsoft 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=washingtonmlourenco&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washingtonmlourenco&layout=compact&theme=radical"/>
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=washingtonmlourenco&theme=tokyonight)
+
 </p>
 
 ---
