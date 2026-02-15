@@ -32,3 +32,72 @@ Scripts profissionais para administração e tuning de performance em Microsoft 
 
 # 📂 Estrutura do Repositório
 
+sql-server-dba/
+│
+├── performance/
+│ ├── cpu/
+│ ├── memory/
+│ ├── indexes/
+│ └── execution-plans/
+│
+├── maintenance/
+│ ├── index-maintenance/
+│ ├── statistics/
+│ └── backups/
+│
+└── monitoring/
+├── wait-stats/
+├── blocking/
+└── io-analysis/
+
+
+
+---
+
+# ⚡ Áreas Cobertas
+
+## 🔥 Performance Tuning
+- Configuração de MAXDOP
+- Cost Threshold for Parallelism
+- Análise de Wait Stats
+- Identificação de gargalos de CPU
+- Otimização de planos de execução
+
+## 💾 Memory & I/O
+- Configuração de Max Server Memory
+- Buffer Pool analysis
+- Page Life Expectancy
+- Diagnóstico de I/O
+
+## 📈 Índices
+- Missing Index detection
+- Fragmentação
+- Rebuild / Reorganize strategy
+- Estatísticas
+
+## 🛡️ Troubleshooting
+- Blocking
+- Deadlocks
+- Queries lentas
+- Análise de sessões ativas
+
+---
+
+# 🧠 Arquitetura de Organização
+
+```mermaid
+flowchart TD
+    A[SQL Server Instance] --> B[Performance]
+    A --> C[Maintenance]
+    A --> D[Monitoring]
+
+    B --> B1[CPU]
+    B --> B2[Memory]
+    B --> B3[Indexes]
+
+    C --> C1[Rebuild Index]
+    C --> C2[Update Stats]
+
+    D --> D1[Wait Stats]
+    D --> D2[Blocking]
+    D --> D3[IO Analysis]
