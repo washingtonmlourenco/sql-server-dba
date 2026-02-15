@@ -9,11 +9,13 @@ Scripts profissionais para administração e tuning de performance em Microsoft 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=washingtonmlourenco&theme=tokyonight)
 
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=washingtonmlourenco&theme=tokyonight" width="600"/>
+
+</div>
+
 
 ---
 
