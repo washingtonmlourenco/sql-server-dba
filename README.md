@@ -35,24 +35,22 @@ Scripts profissionais para administração e tuning de performance em Microsoft 
 sql-server-dba/
 │
 ├── performance/
-│ ├── cpu/
-│ ├── memory/
-│ ├── indexes/
-│ └── execution-plans/
+│   ├── cpu/
+│   ├── memory/
+│   ├── indexes/
+│   └── execution-plans/
 │
 ├── maintenance/
-│ ├── index-maintenance/
-│ ├── statistics/
-│ └── backups/
+│   ├── index-maintenance/
+│   ├── statistics/
+│   └── backups/
 │
 └── monitoring/
-├── wait-stats/
-├── blocking/
-└── io-analysis/
-
+    ├── wait-stats/
+    ├── blocking/
+    └── io-analysis/
+    
 ---
-
-# ⚡ Áreas Cobertas
 
 ## 🔥 Performance Tuning
 - Configuração de MAXDOP
