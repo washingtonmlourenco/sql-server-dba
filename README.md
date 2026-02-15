@@ -50,8 +50,6 @@ sql-server-dba/
 ├── blocking/
 └── io-analysis/
 
-
-
 ---
 
 # ⚡ Áreas Cobertas
