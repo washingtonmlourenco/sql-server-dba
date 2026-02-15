@@ -31,6 +31,7 @@ Scripts profissionais para administração e tuning de performance em Microsoft 
 ---
 
 # 📂 Estrutura do Repositório
+```
 
 sql-server-dba/
 │
@@ -49,7 +50,7 @@ sql-server-dba/
     ├── wait-stats/
     ├── blocking/
     └── io-analysis/
-    
+```    
 ---
 
 ## 🔥 Performance Tuning
