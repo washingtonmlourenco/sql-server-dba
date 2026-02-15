@@ -61,8 +61,7 @@ sql-server-dba/
 - Identificação de gargalos de CPU
 - Otimização de planos de execução
 
-## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/01ffedf8-c44b-4b91-a3f9-305e50f7c746" />
- Memory & I/O
+## 💾 Memory & I/O
 - Configuração de Max Server Memory
 - Buffer Pool analysis
 - Page Life Expectancy
