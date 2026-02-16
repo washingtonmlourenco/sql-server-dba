@@ -1,3 +1,22 @@
+/*
+================================================================================
+ Script:     cpu-top-10-queries-by-worker-time.sql
+ Source:
+     Consulta baseada em exemplo público disponível em:
+     https://dbasqlserverbr.com.br/consultas-que-estao-consumindo-mais-cpu-no-sql-server/
+
+ Description:
+     Retorna as 10 queries com maior consumo acumulado de CPU (worker time)
+     desde o último restart da instância do SQL Server.
+
+ Notes:
+     - Utiliza DMVs sys.dm_exec_query_stats,
+       sys.dm_exec_sql_text e sys.dm_exec_query_plan.
+     - Script de diagnóstico para identificar queries que mais impactam a CPU.
+================================================================================
+*/
+
+
 SELECT TOP 10
        SUBSTRING(qt.TEXT, (qs.statement_start_offset / 2) + 1,
        ((CASE qs.statement_end_offset
