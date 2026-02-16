@@ -2,7 +2,7 @@
 ================================================================================
  Script:     cpu-top-10-queries-by-worker-time.sql
  Source:
-     Consulta baseada em exemplo público disponível em:
+     Exemplo publicado em:
      https://dbasqlserverbr.com.br/consultas-que-estao-consumindo-mais-cpu-no-sql-server/
 
  Description:
