@@ -6,18 +6,13 @@
 Scripts profissionais para administração e tuning de performance em Microsoft SQL Server
 </p>
 
----
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=washingtonmlourenco&theme=tokyonight" width="600"/>
-
+  <a href="https://github.com/washingtonmlourenco">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=washingtonmlourenco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
-
-
----
 
 ## 🛠️ Tecnologias & Foco
 
