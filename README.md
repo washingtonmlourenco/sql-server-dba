@@ -35,24 +35,44 @@ Scripts profissionais para administração e tuning de performance em Microsoft 
 
 # 📂 Estrutura do Repositório
 ```
-
 sql-server-dba/
 │
 ├── performance/
 │   ├── cpu/
 │   ├── memory/
 │   ├── indexes/
-│   └── execution-plans/
+│   ├── execution-plans/
+│   └── compression/
 │
 ├── maintenance/
 │   ├── index-maintenance/
 │   ├── statistics/
-│   └── backups/
+│   ├── backups/
+│   └── integrity-checks/
 │
-└── monitoring/
-    ├── wait-stats/
-    ├── blocking/
-    └── io-analysis/
+├── monitoring/
+│   ├── wait-stats/
+│   ├── blocking/
+│   ├── deadlocks/
+│   └── io-analysis/
+│
+├── security/
+│   ├── users/
+│   ├── roles/
+│   ├── permissions/
+│   └── auditing/
+│
+├── ha-dr/
+│   ├── alwayson/
+│   ├── log-shipping/
+│   ├── replication/
+│   └── restore-scenarios/
+│
+└── data-platform/
+    ├── cdc/
+    ├── etl/
+    ├── azure/
+    └── aws/
 ```    
 ---
 
