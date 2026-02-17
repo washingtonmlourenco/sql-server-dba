@@ -8,11 +8,16 @@ Scripts profissionais para administração e tuning de performance em Microsoft 
 
 
 ## 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/washingtonmlourenco">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=washingtonmlourenco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+<p align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img 
+      width="580"
+      alt="washingtonmlourenco GitHub Stats"
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/washingtonmlourenco?cardType=level-alternate&theme=vue-dark&preferLogin=false"
+    />
   </a>
-</div>
+</p>
 
 ## 🛠️ Tecnologias & Foco
 
