@@ -19,7 +19,6 @@ Scripts profissionais para administração e tuning de performance em Microsoft 
   </a>
 </p>
 
-
 ## 🛠️ Tecnologias & Foco
 
 <div align="center">
