@@ -96,7 +96,8 @@ flowchart TD
     B --> B3[Indexes]
 
     C --> C1[Rebuild Index]
-    C --> C2[Update Stats]
+    C --> C2[Statistics]
+    C --> C3[Backups]
 
     D --> D1[Wait Stats]
     D --> D2[Blocking]
