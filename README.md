@@ -12,12 +12,13 @@ Scripts profissionais para administração e tuning de performance em Microsoft 
 <p align="center">
   <a href="https://git.io/awesome-stats-card">
     <img 
-      width="580"
-      alt="washingtonmlourenco GitHub Stats"
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/washingtonmlourenco?cardType=level-alternate&theme=vue-dark&preferLogin=false"
+      width="600"
+      alt="Washington Lourenço GitHub Stats"
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/washingtonmlourenco?cardType=level-alternate&theme=vue-dark&preferLogin=false&v=1"
     />
   </a>
 </p>
+
 
 ## 🛠️ Tecnologias & Foco
 
