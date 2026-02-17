@@ -110,6 +110,8 @@ flowchart TD
     A[SQL Server Instance] --> B[Performance]
     A --> C[Maintenance]
     A --> D[Monitoring]
+    A --> E[Security]
+    A --> F[HA/DR]
 
     B --> B1[CPU]
     B --> B2[Memory]
@@ -122,3 +124,9 @@ flowchart TD
     D --> D1[Wait Stats]
     D --> D2[Blocking]
     D --> D3[IO Analysis]
+
+    E --> E1[Users & Roles]
+    E --> E2[Permissions]
+
+    F --> F1[AlwaysOn]
+    F --> F2[Restore Strategy]
